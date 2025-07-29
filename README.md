@@ -31,7 +31,7 @@ This project implements a mathematical model of a non-transitive dice game, wher
 3. Open a terminal and navigate to that folder.
 4. Run the game using:
 
-Each <diceN> is a comma-separated list of integers representing the faces of the die. Example:
+Each (diceN) is a comma-separated list of integers representing the faces of the die. Example:
 ```bash
 node index.js <dice1> <dice2> <dice3> [...]
 node index.js 2,2,4,4,9,9 6,8,1,1,8,6 7,5,3,7,5,3
